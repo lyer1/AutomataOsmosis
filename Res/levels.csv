@@ -1,0 +1,4 @@
+1,0,1,Machine accepts : a,a
+2,0,1,Machine accepts : ac,ac
+3,0,20,Machine accepts : ab^n,ab|abb|abbb|abbbb|abbbbb|abbbbbb|abbbbbbb|abbbbbbbb|abbbbbbbbb|abbbbbbbbbb|abbbbbbbbbbb|abbbbbbbbbbbb|abbbbbbbbbbbbb|abbbbbbbbbbbbbb|abbbbbbbbbbbbbbb|abbbbbbbbbbbbbbbb|abbbbbbbbbbbbbbbbb|abbbbbbbbbbbbbbbbbb|abbbbbbbbbbbbbbbbbbb|abbbbbbbbbbbbbbbbbbbb|
+4,0,30,Machine accepts abxba,abaaaaaaaaaba|abaabbabbabba|abbbbbbba|abaaaabaabbaba|abbbba|abba|abbbaaba|abbbbbba|abbaaaaaba|abaabbaba|abaabababba|abaaaabaaba|abba|abbababababa|abbaaaabbba|abaabaaba|abbaabba|ababbbbaabba|abaabbabbbaba|ababababbabba|abba|abba|ababa|abba|abbba|abbabaaaaba|abbbabba|abbaba|abba|abbaaaaaba|
